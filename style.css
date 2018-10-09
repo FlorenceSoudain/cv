@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    font-size: 1vw;
+}
+#global {
+    margin: 20%;
+}
+
+.photo {
+    background-image: url("http://www.formation-informatique.info/wp-content/uploads/2014/10/informaticien-sans-diplome.png");
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: 150px;
+    background-position: 80% 10%;
+    float: right;
+}
+.dates {
+    float: left;
+    margin-right: 5%;
+    max-width: 20%;
+}
+.contenue {
+    text-align: justify;
+    max-width: 75%;
+}
+#titre {
+    text-align: center;
+}
